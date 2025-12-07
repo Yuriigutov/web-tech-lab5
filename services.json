@@ -1,0 +1,38 @@
+{
+  "categoryId": 4,
+  "categoryName": "Послуги",
+  "items": [
+    {
+      "id": 1,
+      "name": "Онлайн-консультація тренера",
+      "shortname": "online_coach",
+      "description": "Індивідуальна відео-консультація з тренером тривалістю 60 хвилин.",
+      "price": "30.00 $",
+      "image": "https://placehold.co/200x200?text=Coach+Call"
+    },
+    {
+      "id": 2,
+      "name": "Налаштування ноутбука",
+      "shortname": "laptop_setup",
+      "description": "Повна початкова настройка ноутбука та встановлення базового ПЗ.",
+      "price": "25.00 $",
+      "image": "https://placehold.co/200x200?text=Laptop+Setup"
+    },
+    {
+      "id": 3,
+      "name": "Розробка лендинг-сторінки",
+      "shortname": "landing_page",
+      "description": "Створення односторінкового сайту для малого бізнесу.",
+      "price": "150.00 $",
+      "image": "https://placehold.co/200x200?text=Landing+Page"
+    },
+    {
+      "id": 4,
+      "name": "Фотообробка (10 фото)",
+      "shortname": "photo_editing",
+      "description": "Професійна обробка 10 фотографій.",
+      "price": "40.00 $",
+      "image": "https://placehold.co/200x200?text=Photo+Editing"
+    }
+  ]
+}

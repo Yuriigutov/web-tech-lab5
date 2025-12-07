@@ -1,0 +1,38 @@
+{
+  "categoryId": 3,
+  "categoryName": "Спорт і фітнес",
+  "items": [
+    {
+      "id": 1,
+      "name": "Гантелі 2×5 кг",
+      "shortname": "dumbbells",
+      "description": "Набір гантель для домашніх тренувань.",
+      "price": "45.00 $",
+      "image": "https://placehold.co/200x200?text=Dumbbells"
+    },
+    {
+      "id": 2,
+      "name": "Килимок для йоги",
+      "shortname": "yoga_mat",
+      "description": "Не ковзкий килимок для занять йогою та фітнесом.",
+      "price": "19.99 $",
+      "image": "https://placehold.co/200x200?text=Yoga+Mat"
+    },
+    {
+      "id": 3,
+      "name": "Скакалка",
+      "shortname": "jump_rope",
+      "description": "Легка скакалка для кардіо-тренувань.",
+      "price": "9.50 $",
+      "image": "https://placehold.co/200x200?text=Jump+Rope"
+    },
+    {
+      "id": 4,
+      "name": "Фітнес-резинки (набір)",
+      "shortname": "resistance_bands",
+      "description": "Набір еластичних стрічок різної жорсткості.",
+      "price": "15.00 $",
+      "image": "https://placehold.co/200x200?text=Resistance+Bands"
+    }
+  ]
+}

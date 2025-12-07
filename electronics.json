@@ -1,0 +1,38 @@
+{
+  "categoryId": 1,
+  "categoryName": "Електроніка",
+  "items": [
+    {
+      "id": 1,
+      "name": "Бездротові навушники",
+      "shortname": "wireless_headphones",
+      "description": "Легкі навушники з Bluetooth-підключенням та шумозаглушенням.",
+      "price": "59.99 $",
+      "image": "https://placehold.co/200x200?text=Headphones"
+    },
+    {
+      "id": 2,
+      "name": "Смарт-годинник",
+      "shortname": "smartwatch",
+      "description": "Смарт-годинник з відстеженням активності та сповіщеннями зі смартфона.",
+      "price": "89.00 $",
+      "image": "https://placehold.co/200x200?text=Smartwatch"
+    },
+    {
+      "id": 3,
+      "name": "Портативна колонка",
+      "shortname": "portable_speaker",
+      "description": "Гучна колонка з вологозахистом для вечірок і подорожей.",
+      "price": "39.50 $",
+      "image": "https://placehold.co/200x200?text=Speaker"
+    },
+    {
+      "id": 4,
+      "name": "Екшн-камера",
+      "shortname": "action_camera",
+      "description": "Компактна камера для зйомки під час спорту та подорожей.",
+      "price": "120.00 $",
+      "image": "https://placehold.co/200x200?text=Camera"
+    }
+  ]
+}

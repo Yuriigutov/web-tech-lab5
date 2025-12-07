@@ -1,0 +1,38 @@
+{
+  "categoryId": 2,
+  "categoryName": "Побутова техніка",
+  "items": [
+    {
+      "id": 1,
+      "name": "Електрочайник",
+      "shortname": "kettle",
+      "description": "Швидкий електрочайник з автоматичним вимкненням.",
+      "price": "25.99 $",
+      "image": "https://placehold.co/200x200?text=Kettle"
+    },
+    {
+      "id": 2,
+      "name": "Кавоварка",
+      "shortname": "coffee_machine",
+      "description": "Кавоварка для приготування еспресо та капучино вдома.",
+      "price": "79.00 $",
+      "image": "https://placehold.co/200x200?text=Coffee+Machine"
+    },
+    {
+      "id": 3,
+      "name": "Мікрохвильова піч",
+      "shortname": "microwave",
+      "description": "Мікрохвильова піч з кількома автоматичними режимами.",
+      "price": "99.90 $",
+      "image": "https://placehold.co/200x200?text=Microwave"
+    },
+    {
+      "id": 4,
+      "name": "Пилосос",
+      "shortname": "vacuum_cleaner",
+      "description": "Потужний пилосос для сухого прибирання квартири.",
+      "price": "110.00 $",
+      "image": "https://placehold.co/200x200?text=Vacuum"
+    }
+  ]
+}
